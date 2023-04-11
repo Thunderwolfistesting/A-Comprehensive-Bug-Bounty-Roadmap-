@@ -4,7 +4,7 @@ Hey there! I'm Samman Sikarwar a 16 y/o driven individual who secures website's 
 
 Connect - https://linktr.ee/sammansikarwar  :)
 
-This repository serves as a roadmap for individual who are intreseted in bug bounty. This repository contains a curated list of resources and tools to help you get started !   
+This repository serves as a roadmap for individual who are intreseted in bug bounty. It contains a curated list of resources and tools to help you get started !   
 
 ## Table of Contents:
 
