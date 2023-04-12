@@ -33,8 +33,8 @@ And if you are really coming for money only and you do not have interest in bug 
 
 ## (Fundamentals)
 ### History and Basics:
-*https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo  
-https://www.youtube.com/watch?v=OS9MJjNK6gA&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K  
+• https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo  
+• https://www.youtube.com/watch?v=OS9MJjNK6gA&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K  
 
 ### Computer Networking:
 https://youtu.be/qiQR5rTSshw  
