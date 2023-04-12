@@ -33,7 +33,7 @@ And if you are really coming for money only and you do not have interest in bug 
 
 ## (Fundamentals)
 ### History and Basics:
-https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo  
+*https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo  
 https://www.youtube.com/watch?v=OS9MJjNK6gA&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K  
 
 ### Computer Networking:
@@ -65,9 +65,10 @@ https://www.khanacademy.org/computing/computer-programming/sql
 
 ## (Operating Systems)
 
-### Linux:
+### Bash & Linux:
 https://youtu.be/ZtqBQ68cfJc  
 https://youtu.be/U1w4T03B30I  
+https://youtu.be/tK9Oc6AEnR4  
 
 ## Windows:
 https://youtu.be/z2r-p7xc7c4  
