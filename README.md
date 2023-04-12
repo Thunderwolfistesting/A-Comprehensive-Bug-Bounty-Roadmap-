@@ -32,89 +32,93 @@ And if you are really coming for money only and you do not have interest in bug 
 ## Learning Resources
 
 ## (Fundamentals)
-### History and Basics:
-• https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo  
-• https://www.youtube.com/watch?v=OS9MJjNK6gA&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K  
+### •History and Basics:
+° https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo  
+° https://www.youtube.com/watch?v=OS9MJjNK6gA&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K  
 
-### Computer Networking:
-https://youtu.be/qiQR5rTSshw  
-https://youtu.be/IPvYjXCsTg8  
-https://www.youtube.com/watch?v=6LzuIch-wQo&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd  
-https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ  
-https://www.youtube.com/watch?v=tSodBEAJz9Y&list=PLF1hDMPPRqGxpYdo0ctaa7MxfOi9vjs1u  
+### •Computer Networking:
+° https://youtu.be/qiQR5rTSshw  
+° https://youtu.be/IPvYjXCsTg8  
+° https://www.youtube.com/watch?v=6LzuIch-wQo&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd  
+° https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ  
+° https://www.youtube.com/watch?v=tSodBEAJz9Y&list=PLF1hDMPPRqGxpYdo0ctaa7MxfOi9vjs1u  
 
-## (Programming)
+## •(Programming)
 
 ### Python:
-https://youtu.be/7utwZYKweho  
-https://youtu.be/rfscVS0vtbw  
-https://youtu.be/_uQrJ0TkZlc  
+° https://youtu.be/7utwZYKweho  
+° https://youtu.be/rfscVS0vtbw  
+° https://youtu.be/_uQrJ0TkZlc  
 
 ### JavaScript:
-https://youtu.be/W6NZfCO5SIk  
-https://youtu.be/jS4aFq5-91M  
+° https://youtu.be/W6NZfCO5SIk  
+° https://youtu.be/jS4aFq5-91M  
 
 ### PHP:
-https://youtu.be/OK_JCtrrv-c  
+° https://youtu.be/OK_JCtrrv-c  
 
 ### SQL:
-https://youtu.be/HXV3zeQKqGY  
-https://youtu.be/p3qvj9hO_Bo  
-https://sqlzoo.net/wiki/SQL_Tutorial  
-https://www.khanacademy.org/computing/computer-programming/sql  
+° https://youtu.be/HXV3zeQKqGY  
+° https://youtu.be/p3qvj9hO_Bo  
+° https://sqlzoo.net/wiki/SQL_Tutorial  
+° https://www.khanacademy.org/computing/computer-programming/sql  
 
-## (Operating Systems)
+### C:
+° https://youtu.be/KJgsSFOSQv0
+° https://youtu.be/87SH2Cn0s9A
+
+## •(Operating Systems)
 
 ### Bash & Linux:
-https://youtu.be/ZtqBQ68cfJc  
-https://youtu.be/U1w4T03B30I  
-https://youtu.be/tK9Oc6AEnR4  
+° https://youtu.be/ZtqBQ68cfJc  
+° https://youtu.be/U1w4T03B30I  
+° https://youtu.be/tK9Oc6AEnR4  
 
 ## Windows:
-https://youtu.be/z2r-p7xc7c4  
-https://youtu.be/Jfvg3CS1X3A  
+° https://youtu.be/z2r-p7xc7c4  
+° https://youtu.be/Jfvg3CS1X3A  
 
-## CTF's and Practice Labs
-https://www.vulnhub.com/  
-https://tryhackme.com/  
-https://www.hackthebox.com/  
-https://portswigger.net/  
-https://overthewire.org/  
-https://ctf365.com/  
-https://picoctf.org/  
-https://owasp.org/www-project-webgoat/  
-https://www.root-me.org/en/  
-https://www.hacking-lab.com/  
-https://owasp.org/www-project-juice-shop/  
-https://www.hackthissite.org/  
-https://application.security/  
-https://pentesterlab.com/  
-https://www.hacker101.com/  
-https://downunderctf.com/  
+## •CTF's and Practice Labs
+° https://www.vulnhub.com/  
+° https://tryhackme.com/  
+° https://www.hackthebox.com/  
+° https://portswigger.net/  
+° https://overthewire.org/  
+° https://ctf365.com/  
+° https://picoctf.org/  
+° https://owasp.org/www-project-webgoat/  
+° https://www.root-me.org/en/  
+° https://www.hacking-lab.com/  
+° https://owasp.org/www-project-juice-shop/  
+° https://www.hackthissite.org/  
+° https://application.security/  
+° https://pentesterlab.com/  
+° https://www.hacker101.com/  
+° https://downunderctf.com/  
 
-## Stay UPDATED ( Blogs and Newsletters )
-https://thehackernews.com/  
-https://www.wired.com/newsletter  
-https://medium.com/@infosecwriteups  
-https://www.akamai.com/blog  
-https://threatpost.com/  
-https://www.darkreading.com/  
-https://securib.ee/  
-https://infosecwriteups.com/  
-https://danielmiessler.com/newsletter/  
-https://tldrsec.com/  
-https://executiveoffense.beehiiv.com/subscribe  
+## •Stay UPDATED ( Blogs and Newsletters )
+° https://thehackernews.com/  
+° https://www.wired.com/newsletter  
+° https://medium.com/@infosecwriteups  
+° https://www.akamai.com/blog  
+° https://threatpost.com/  
+° https://www.darkreading.com/  
+° https://securib.ee/  
+° https://infosecwriteups.com/  
+° https://danielmiessler.com/newsletter/  
+° https://tldrsec.com/  
+° https://executiveoffense.beehiiv.com/subscribe  
 
-## Bug Bounty Platforms
-https://www.hackerone.com/  
-https://www.bugcrowd.com/  
-https://www.intigriti.com/ (Recommended for beginners)  
-https://www.yeswehack.com/ (Recommended for beginners)  
+## •Bug Bounty Platforms
+° https://www.hackerone.com/  
+° https://www.bugcrowd.com/  
+° https://www.intigriti.com/ (Recommended for beginners)  
+° https://www.yeswehack.com/ (Recommended for beginners)  
   
 OR  
   
 Use Google Dorks to find programs,  
-https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt  
+° https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt  
 
 # Thank-You!
 
