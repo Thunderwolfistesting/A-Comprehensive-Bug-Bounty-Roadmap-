@@ -80,17 +80,17 @@ And if you are really coming for money only and you do not have interest in bug 
 
 ## •CTF's and Practice Labs
 ° https://www.vulnhub.com/  
-° https://tryhackme.com/  
+° https://tryhackme.com/ (Recommended for beginners)  
 ° https://www.hackthebox.com/  
 ° https://portswigger.net/  
-° https://overthewire.org/  
+° https://overthewire.org/ (Recommended for beginners)  
 ° https://ctf365.com/  
-° https://picoctf.org/  
+° https://picoctf.org/ (Recommended for beginners)  
 ° https://owasp.org/www-project-webgoat/  
 ° https://www.root-me.org/en/  
 ° https://www.hacking-lab.com/  
 ° https://owasp.org/www-project-juice-shop/  
-° https://www.hackthissite.org/  
+° https://www.hackthissite.org/ (Recommended for beginners)  
 ° https://application.security/  
 ° https://pentesterlab.com/  
 ° https://www.hacker101.com/  
